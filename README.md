@@ -12,7 +12,7 @@
 - Currently working in Da Nang, Vietnam.
 - Ask me about React.js, Node.js and my projects on [huynhduckhoan@gmail.com](mailto:huynhduckhoan@gmail.com) or [admin@devcui.com](mailto:admin@devcui.com)
 
-### 🛠  Stack
+### Tech Stack
 
 - ![AWS](https://img.shields.io/badge/-AWS-lightgrey?style=flat&logo=amazon-aws&logoColor=232F3E)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-lightgrey?style=flat&logo=google-cloud&logoColor=4285F4)
