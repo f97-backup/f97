@@ -14,18 +14,20 @@
 
 ### Tech Stack
 
-- ![AWS](https://img.shields.io/badge/-AWS-lightgrey?style=flat&logo=amazon-aws&logoColor=232F3E)
+![AWS](https://img.shields.io/badge/-AWS-lightgrey?style=flat&logo=amazon-aws&logoColor=232F3E)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-lightgrey?style=flat&logo=google-cloud&logoColor=4285F4)
 ![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=flat&logo=Linux&logoColor=FCC624)
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-lightgrey?style=flat&logo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML5-lightgrey?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-lightgrey?style=flat&logo=CSS3)
 ![Node.js](https://img.shields.io/badge/-Node.js-lightgrey?style=flat&logo=node.js)
 ![React.js](https://img.shields.io/badge/-React.JS-lightgrey?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-lightgrey?style=flat&logo=react)
-- ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat&logo=mysql)
+
+![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey?style=flat&logo=mongodb)
-- ![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)
+
+![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)
 
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-lightgrey?style=flat&logo=markdown) -->
