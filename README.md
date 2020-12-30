@@ -11,7 +11,7 @@
 React developer & Open Source enthusiast.<br>
 Currently working in Da Nang, Vietnam.<br>
 
----
 
+<hr/>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=f97&show_icons=true&theme=onedark&show_icons=true&hide_border=true">
 
