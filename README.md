@@ -8,12 +8,9 @@
 
 - React developer & Open Source enthusiast.
 - Currently working in Da Nang, Vietnam.
-- Ask me about React.js, Node.js and my projects on [huynhduckhoan@gmail.com](mailto:huynhduckhoan@gmail.com) or [admin@devcui.com](mailto:admin@devcui.com)
 
-![F97's github stats](https://github-readme-stats.vercel.app/api?username=f97&show_icons=true&theme=onedark)
+---
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=f97&show_icons=true&theme=onedark&show_icons=true&hide_border=true">
 
-
-[![F97's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)](https://github.com/f97)
-
-
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark&hide_border=true">
