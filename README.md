@@ -3,12 +3,13 @@
 [![huynhduckhoan](https://img.shields.io/badge/skype-huynhduckhoan-blue "huynhduckhoan")](https://join.skype.com/invite/niUom6aZDDwa "devcui.com")
 
 ---
- 
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark&hide_border=true">
+
 ### I'm Khoản
 
-- React developer & Open Source enthusiast.
-- Currently working in Da Nang, Vietnam.
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark&hide_border=true">
+React developer & Open Source enthusiast.<br>
+Currently working in Da Nang, Vietnam.<br>
 
 ---
 
