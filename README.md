@@ -2,7 +2,6 @@
 [![devcui.com](https://img.shields.io/badge/Blog-devcui.com-lightgrey "devcui.com")](https://devcui.com "devcui.com")
 [![huynhduckhoan](https://img.shields.io/badge/skype-huynhduckhoan-blue "huynhduckhoan")](https://join.skype.com/invite/niUom6aZDDwa "devcui.com")
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark">
 
 ---
 
@@ -13,5 +12,6 @@ Currently working in Da Nang, Vietnam.<br>
 
 
 <hr/>
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark">
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=f97&show_icons=true&theme=onedark&show_icons=true&hide_border=true">
 
