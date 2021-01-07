@@ -1,7 +1,7 @@
 ## Hello My Fens 👋
 [![devcui.com](https://img.shields.io/badge/Blog-devcui.com-lightgrey "devcui.com")](https://devcui.com "devcui.com")
 [![huynhduckhoan](https://img.shields.io/badge/skype-huynhduckhoan-blue "huynhduckhoan")](https://join.skype.com/invite/niUom6aZDDwa "devcui.com")
-
+![F97's github visitor](https://komarev.com/ghpvc/?username=f97)
 
 
 ### I'm Khoản
