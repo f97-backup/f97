@@ -1,5 +1,5 @@
 ## Hello My Fens 👋
-[![f97.xyz](https://img.shields.io/badge/Blog-"f97.xyz-lightgrey "f97.xyz")](https://f97.xyz" "f97.xyz")
+[![f97.xyz](https://img.shields.io/badge/Blog-"f97.xyz-lightgrey "f97.xyz")]("https://f97.xyz" "f97.xyz")
 [![huynhduckhoan](https://img.shields.io/badge/skype-huynhduckhoan-blue "huynhduckhoan")](https://join.skype.com/invite/niUom6aZDDwa "devcui.com")
 ![F97's github visitor](https://komarev.com/ghpvc/?username=f97)
 
