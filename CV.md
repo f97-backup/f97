@@ -66,7 +66,7 @@ _Basic knowledge of **C**, **Java** and more... :)))_
 
 [ref]: https://github.com/githubuser/f97
 
-Extra Section, Call it Whatever You Want
+Extra Section
 ----------------------------------------
 
 * Human Languages:
@@ -75,6 +75,11 @@ Extra Section, Call it Whatever You Want
      * English _(enough to listen, speak, read and write)_
      * Chinese _(child is studying)_
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Fact
+   * I was a secretary
+   * I Love To Laugh
+   * I did a lot of work but not suppor t IT.
+   * There are many hobbies (table tennis, taking pictures, writing poems, writing stories ...)
+   * Like taking photos but not often sharing on social networks
+   * In f ree time, I often watch One Piece and Anime
+   * I have many diaries, one of which belongs to my ex.
