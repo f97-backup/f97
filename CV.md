@@ -76,10 +76,12 @@ Extra Section
      * Chinese _(child is studying)_
 
 * Fact
-   * I was a secretary
-   * I Love To Laugh
+   * I was a secretary.
+   * I Love To Laugh.
    * I did a lot of work but not suppor t IT.
-   * There are many hobbies (table tennis, taking pictures, writing poems, writing stories ...)
+   * There are many hobbies (table tennis, taking pictures, writing poems, writing stories ...).
    * Like taking photos but not often sharing on social networks
-   * In f ree time, I often watch One Piece and Anime
+   * In free time, I often watch One Piece and Anime.
    * I have many diaries, one of which belongs to my ex.
+   * I have a smart watch collection.
+   * I am alone =)))
