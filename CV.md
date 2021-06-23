@@ -65,9 +65,9 @@ Open Source
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of **C**, **Java** and more... :)))
 
-[ref]: https://github.com/githubuser/superlongprojectname
+[ref]: https://github.com/githubuser/f97
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
