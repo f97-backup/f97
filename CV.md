@@ -11,7 +11,7 @@ Experience
 ----------
 
 
-_[6/2021 - current]_ - **Blue Otter Corporation**
+_[6/2020 - current]_ - **Blue Otter Corporation**
 
 
 Projects have joined or built alone: 
