@@ -10,20 +10,16 @@ Huỳnh Đức Khoản | HUYNH DUC KHOAN
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+_[6/2021 - current]_ - **Blue Otter Corporation:**
 
-* First item
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Projects have joined or built alone: 
 
-**That Other Job You Had**
-
-Also with a short description.
+* [Operativeunderground](https://www.operativeunderground.com/) a project uses React.js and Firebase as backend, React.js uses redux for state management. Built from scratch, and made by only me to probation.
+* [Feastin](https://feastin.com/) a project connecting restaurant with customers, participating as a team member, mainly edit interface and css to client opinions.
+* [cloudcath](https://www.cloudcath.com/) build software for client, a fairly large project and divided into several phases, mainly fixing bugs for client for security reasons.
+* some other internal projects (React.js or React Native), manage servers for companies and customers because they have not yet recruited devops.
 
 Education
 ---------
