@@ -40,34 +40,28 @@ Technical Experience
 
 My Cool Side Project: 
 
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Node.js**
+   * Bot for [https://lnvs.net/](https://lnvs.net/) [working] _(bot support for scrape data from some light novel site and add for website)_
+   * API get link for [https://linkxin.net/](https://linkxin.net/) [pause]  _(The API takes fshare, 4share, google drive, mediafire, meg0a... links and returns high-speed links with shortened links)_
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**PHP/WORDPRESS**
+   * [https://lnvs.net/](https://lnvs.net/)
+   * [https://taimoi.com/](https://taimoi.com/)
+ 
 
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
-Programming LanguagesCancel changes
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+**Node.js**
+   * chevereto for node.js: https://github.com/f97/chevereto
+   * fsharedk for node.js: https://github.com/f97/fsharedk
+   * and more: https://github.com/f97
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+**React Native**
+   * RNTemplate: https://github.com/f97/RNTemplate.git
 
+**Bash**
+   * SurVPS: https://github.com/f97/survps.git
+   
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
 
