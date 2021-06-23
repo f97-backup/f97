@@ -31,9 +31,9 @@ Education
 2015-2019
 :   **Bachelor of IT at Danang University of Education
 
-    *Students, member, secretary the school's executive committee.
-    **Learn the basics of algorithms, logic, office and more.
-    
+   * Students, member, secretary the school's executive committee.
+   * Learn the basics of algorithms, logic, office and more.
+
 
 Technical Experience
 --------------------
