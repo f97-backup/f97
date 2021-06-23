@@ -20,5 +20,5 @@ Currently working in Da Nang, Vietnam.<br>
  -->
  
 To connect with me: 
-- Linkedin: [https://www.linkedin.com/in/huynhduckhoan/](https://www.linkedin.com/in/huynhduckhoan/)
-- Skype: https://join.skype.com/invite/niUom6aZDDwa
+- Linkedin: [in/huynhduckhoan/](https://www.linkedin.com/in/huynhduckhoan/)
+- Skype: [live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)
