@@ -38,7 +38,7 @@ Education
 Technical Experience
 --------------------
 
-My Cool Side Project: 
+My cool side project: 
 
 **Node.js**
    * bot for [https://lnvs.net/](https://lnvs.net/) [working] _(bot support for scrape data from some light novel site and add for website)_
