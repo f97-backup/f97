@@ -11,7 +11,7 @@ Experience
 ----------
 
 
-_[6/2021 - current]_ - **Blue Otter Corporation:**
+_[6/2021 - current]_ - **Blue Otter Corporation**
 
 
 Projects have joined or built alone: 
@@ -20,6 +20,10 @@ Projects have joined or built alone:
 * [Feastin](https://feastin.com/) a project connecting restaurant with customers, participating as a team member, mainly edit interface and css to client opinions.
 * [cloudcath](https://www.cloudcath.com/) build software for client, a fairly large project and divided into several phases, mainly fixing bugs for client for security reasons.
 * some other internal projects (React.js or React Native), manage servers for companies and customers because they have not yet recruited devops.
+
+_[2/2019 - 6/2020]_ - **Co-WELL**
+
+* [kakei+](https://kakei.fujinnotomo.co.jp/) all time working at CW only worked on this project, using React.js, Ant and PHP, Mysql as the backend.
 
 Education
 ---------
@@ -34,7 +38,8 @@ Education
 Technical Experience
 --------------------
 
-My Cool Side Project
+My Cool Side Project: 
+
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
 
@@ -75,9 +80,8 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * English (native speaker)
+     * Vietnamese (native speaker)
      * ???
-     * This is what a nested list looks like.
 
 * Random tidbit
 
