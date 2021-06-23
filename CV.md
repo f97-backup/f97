@@ -60,7 +60,7 @@ Open Source
    * RNTemplate: https://github.com/f97/RNTemplate.git
 
 **Bash**
-   * surVPS: https://github.com/f97/survps.git
+   * SurVPS: https://github.com/f97/survps.git
    
 _Basic knowledge of **C**, **Java** and more... :)))_
 
