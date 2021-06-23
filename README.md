@@ -18,3 +18,7 @@ Currently working in Da Nang, Vietnam.<br>
 
 ![Imgur](https://i.imgur.com/7pehdsz.png)
  -->
+ 
+To connect with me: 
+- Linkedin: [https://www.linkedin.com/in/huynhduckhoan/](https://www.linkedin.com/in/huynhduckhoan/)
+- Skype: https://join.skype.com/invite/niUom6aZDDwa
