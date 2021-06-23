@@ -16,8 +16,8 @@ _[6/2021 - current]_ - **Blue Otter Corporation**
 
 Projects have joined or built alone: 
 
-* [Operativeunderground](https://www.operativeunderground.com/) a project uses React.js and Firebase as backend, React.js uses redux for state management. Built from scratch, and made by only me to probation.
-* [Feastin](https://feastin.com/) a project connecting restaurant with customers, participating as a team member, mainly edit interface and css to client opinions.
+* [operativeunderground](https://www.operativeunderground.com/) a project uses React.js and Firebase as backend, React.js uses redux for state management. Built from scratch, and made by only me to probation.
+* [feastin](https://feastin.com/) a project connecting restaurant with customers, participating as a team member, mainly edit interface and css to client opinions.
 * [cloudcath](https://www.cloudcath.com/) build software for client, a fairly large project and divided into several phases, mainly fixing bugs for client for security reasons.
 * some other internal projects (React.js or React Native), manage servers for companies and customers because they have not yet recruited devops.
 
@@ -41,8 +41,8 @@ Technical Experience
 My Cool Side Project: 
 
 **Node.js**
-   * Bot for [https://lnvs.net/](https://lnvs.net/) [working] _(bot support for scrape data from some light novel site and add for website)_
-   * API get link for [https://linkxin.net/](https://linkxin.net/) [pause]  _(The API takes fshare, 4share, google drive, mediafire, meg0a... links and returns high-speed links with shortened links)_
+   * bot for [https://lnvs.net/](https://lnvs.net/) [working] _(bot support for scrape data from some light novel site and add for website)_
+   * api get link for [https://linkxin.net/](https://linkxin.net/) [pause]  _(The API takes fshare, 4share, google drive, mediafire, meg0a... links and returns high-speed links with shortened links)_
 
 **PHP/WORDPRESS**
    * [https://lnvs.net/](https://lnvs.net/)
@@ -60,7 +60,7 @@ Open Source
    * RNTemplate: https://github.com/f97/RNTemplate.git
 
 **Bash**
-   * SurVPS: https://github.com/f97/survps.git
+   * surVPS: https://github.com/f97/survps.git
    
 _Basic knowledge of **C**, **Java** and more... :)))_
 
