@@ -62,10 +62,7 @@ Open Source
 **Bash**
    * SurVPS: https://github.com/f97/survps.git
    
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **Java** and more... :)))
+_Basic knowledge of **C**, **Java** and more... :)))_
 
 [ref]: https://github.com/githubuser/f97
 
@@ -74,8 +71,9 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * Vietnamese (native speaker)
-     * ???
+     * Vietnamese _(native speaker)_
+     * English _(enough to listen, speak, read and write)_
+     * Chinese _(child is studying)_
 
 * Random tidbit
 
