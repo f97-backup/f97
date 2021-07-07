@@ -24,6 +24,7 @@ Projects have joined or built alone:
 _[2/2019 - 6/2020]_ - **Co-WELL**
 
 * [kakei+](https://kakei.fujinnotomo.co.jp/) all time working at CW only worked on this project, using React.js, Ant and PHP, Mysql as the backend.
+* I have a few other React Native projects from time to time but not worth mentioning.
 
 Education
 ---------
