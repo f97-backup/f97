@@ -18,7 +18,7 @@ Projects have joined or built alone:
 * [Operativeunderground](https://www.operativeunderground.com/) a project uses React.js and Firebase as backend, React.js uses redux for state management. Built from scratch, and made by only me to probation.
 * [Feastin](https://feastin.com/) a project connecting restaurant with customers, participating as a team member, mainly edit interface and css to client opinions.
 * [Cloudcath](https://www.cloudcath.com/) build software for client, a fairly large project and divided into several phases, mainly fixing bugs for client for security reasons.
-* some other internal projects (React.js or React Native), manage servers for companies and customers because they have not yet recruited devops.
+* Some other internal projects (React.js or React Native), manage servers for companies and customers because they have not yet recruited devops.
 
 _[2/2019 - 6/2020]_ - **Co-WELL**
 
@@ -56,9 +56,9 @@ My cool side project:
 Open Source
 
 **Node.js**
-   * chevereto for node.js: https://github.com/f97/chevereto
-   * fsharedk for node.js: https://github.com/f97/fsharedk
-   * and more: https://github.com/f97
+   * Chevereto for node.js: https://github.com/f97/chevereto
+   * Fsharedk for node.js: https://github.com/f97/fsharedk
+   * And more: https://github.com/f97
 
 **React Native**
    * RNTemplate: https://github.com/f97/RNTemplate.git
