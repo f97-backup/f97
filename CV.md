@@ -10,7 +10,6 @@ Huỳnh Đức Khoản | HUYNH DUC KHOAN
 Experience
 ----------
 
-
 _[6/2020 - current]_ - **Blue Otter Corporation**
 
 
@@ -42,13 +41,12 @@ Technical Experience
 My cool side project: 
 
 **Node.js**
-   * bot for [https://lnvs.net/](https://lnvs.net/) [working] _(bot support for scrape data from some light novel site and add for website)_
-   * api get link for [https://linkxin.net/](https://linkxin.net/) [stopped]  _(The API takes fshare, 4share, google drive, mediafire, meg0a... links and returns high-speed links with shortened links)_
+   * Bot for [https://lnvs.net/](https://lnvs.net/) [working] _(bot support for scrape data from some light novel site and add for website)_
+   * Api get link for [https://linkxin.net/](https://linkxin.net/) [stopped]  _(The API takes fshare, 4share, google drive, mediafire, meg0a... links and returns high-speed links with shortened links)_
 
 **PHP/WORDPRESS**
    * [https://lnvs.net/](https://lnvs.net/)
    * [https://taimoi.com/](https://taimoi.com/)
- 
 
 Open Source
 
@@ -62,6 +60,7 @@ Open Source
 
 **Bash**
    * SurVPS: https://github.com/f97/survps.git
+   * Some script on https://gist.github.com/f97
    
 _Basic knowledge of **C**, **Java** and more... :)))_
 
@@ -72,9 +71,9 @@ Extra Section
 
 * Human Languages:
 
-     * Vietnamese _(native speaker)_
-     * English _(enough to listen, speak, read and write)_
-     * Chinese _(child is studying)_
+   * Vietnamese _(native speaker)_
+   * English _(enough to listen, speak, read and write)_
+   * Chinese _(child is studying)_
 
 * Fact
    * I can support but don't want to support IT free.
@@ -82,4 +81,4 @@ Extra Section
    * In free time, I often watch create some project for ...
    * I have many diaries, one of which belongs to my ex.
    * I have a smart watch collection.
-   * I am alone =)))
+   * <del>I am alone =)))<del>
