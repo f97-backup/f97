@@ -81,4 +81,4 @@ Extra Section
    * In free time, I often watch create some project for ...
    * I have many diaries, one of which belongs to my ex.
    * I have a smart watch collection.
-   * <del>I am alone =)))<del>
+   * <s>I am alone =)))<s>
