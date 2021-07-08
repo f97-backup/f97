@@ -15,14 +15,14 @@ _[6/2020 - current]_ - **Blue Otter Corporation**
 
 Projects have joined or built alone: 
 
-* [operativeunderground](https://www.operativeunderground.com/) a project uses React.js and Firebase as backend, React.js uses redux for state management. Built from scratch, and made by only me to probation.
-* [feastin](https://feastin.com/) a project connecting restaurant with customers, participating as a team member, mainly edit interface and css to client opinions.
-* [cloudcath](https://www.cloudcath.com/) build software for client, a fairly large project and divided into several phases, mainly fixing bugs for client for security reasons.
+* [Operativeunderground](https://www.operativeunderground.com/) a project uses React.js and Firebase as backend, React.js uses redux for state management. Built from scratch, and made by only me to probation.
+* [Feastin](https://feastin.com/) a project connecting restaurant with customers, participating as a team member, mainly edit interface and css to client opinions.
+* [Cloudcath](https://www.cloudcath.com/) build software for client, a fairly large project and divided into several phases, mainly fixing bugs for client for security reasons.
 * some other internal projects (React.js or React Native), manage servers for companies and customers because they have not yet recruited devops.
 
 _[2/2019 - 6/2020]_ - **Co-WELL**
 
-* [kakei+](https://kakei.fujinnotomo.co.jp/) all time working at CW only worked on this project, using React.js, Ant and PHP, Mysql as the backend.
+* [Kakei+](https://kakei.fujinnotomo.co.jp/) all time working at CW only worked on this project, using React.js, Ant and PHP, Mysql as the backend.
 * I have a few other React Native projects from time to time but not worth mentioning.
 
 Education
@@ -31,9 +31,9 @@ Education
 2015-2019
 :   **Bachelor of IT at Danang University of Education**
 
-   * students, member, secretary the school's executive committee.
-   * learn the basics of algorithms, logic, office and more.
-   * most of the soft skills I have
+   * Students, member, secretary the school's executive committee.
+   * Learn the basics of algorithms, logic, office and more.
+   * Most of the soft skills I have
 
 Technical Experience
 --------------------
