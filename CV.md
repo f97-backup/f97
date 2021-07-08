@@ -38,7 +38,7 @@ Education
 Technical Experience
 --------------------
 
-- By **default** I'm fluent in **HTML5** and **CSS3**, I can design with **XD**, Photoshop, Figma but not very fluent.
+- By **default** I'm fluent in **HTML5** and **CSS3**, I can design with **XD**, Photoshop, Figma but not very good.
 - Good programming language* **Javascript family** _(typescript, node.js, react.js, react native...)_, **PHP**/Wordpress, **Bash**.
 - I can also use some other languages at **basic level**: **C**, **Java**.
 - I am **good** at **MongoDB** and can use MySQL at a basic level.
