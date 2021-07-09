@@ -12,7 +12,6 @@ Experience
 
 _[6/2020 - current]_ - **Blue Otter Corporation**
 
-
 Projects have joined or built alone: 
 
 * [Operativeunderground](https://www.operativeunderground.com/) a project uses React.js and Firebase as backend, React.js uses redux for state management. Built from scratch, and made by only me to probation.
@@ -28,8 +27,10 @@ _[2/2019 - 6/2020]_ - **Co-WELL**
 Education
 ---------
 
-2015-2019
-:   **Bachelor of IT at Danang University of Education**
+_[2015 - 20xx]_:   **Study, study more, study forever**
+  * Completed some courses on udemy, github...
+
+_[2015 - 2019]_:   **Bachelor of IT at Danang University of Education**
 
    * Students, member, secretary the school's executive committee.
    * Learn the basics of algorithms, logic, office and more.
@@ -38,12 +39,13 @@ Education
 Technical Experience
 --------------------
 
-- By **default** I'm fluent in **HTML5** and **CSS3**, I can design with **XD**, Photoshop, Figma but not very good.
+- By **default** I'm **fluent** in **HTML5** and **CSS3**, I can design with **XD**, Photoshop, **Figma** but not very good.
 - **Good** programming language: **Javascript family** _(typescript, node.js, react.js, react native...)_, **PHP**/Wordpress, **Bash**.
 - I **can also use** some other languages at **basic level**: **C**, **Java**.
 - I am **good** at **MongoDB** and can use MySQL at a basic level.
+- **Pretty good** use of Docker.
 
-My cool side project: 
+### My cool side project: 
 
 **Node.js**
    * Bot for [https://lnvs.net/](https://lnvs.net/) [working] _(bot support for scrape data from some light novel site and add for website)_
@@ -53,7 +55,7 @@ My cool side project:
    * [https://lnvs.net/](https://lnvs.net/)
    * [https://taimoi.com/](https://taimoi.com/)
 
-Open Source
+### Open Source
 
 **Node.js**
    * Chevereto for node.js: https://github.com/f97/chevereto
