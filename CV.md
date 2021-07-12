@@ -1,7 +1,7 @@
 
 ![https://img.shields.io/badge/react-892%20days-brightgreen?logo=react&style=flat-square](https://img.shields.io/badge/react-892%20days-brightgreen?logo=react&style=flat-square)
-![https://img.shields.io/badge/js%20projects-23-important?logo=javascript&style=flat-square](https://img.shields.io/badge/projects-23-important?logo=javascript&style=flat-square)
-![https://img.shields.io/badge/php%20projects-9-9cf?logo=php&style=flat-square](https://img.shields.io/badge/php-9-9cf?logo=php&style=flat-square)
+![https://img.shields.io/badge/js%20projects-23-important?logo=javascript&style=flat-square](https://img.shields.io/badge/js%20projects-23-important?logo=javascript&style=flat-square)
+![https://img.shields.io/badge/php%20projects-9-9cf?logo=php&style=flat-square](https://img.shields.io/badge/php%20projects-9-9cf?logo=php&style=flat-square)
 
 Huỳnh Đức Khoản | HUYNH DUC KHOAN
 ============
