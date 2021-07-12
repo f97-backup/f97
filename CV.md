@@ -48,7 +48,7 @@ Technical Experience
 ### My cool side project: 
 
 **Node.js**
-   * Bot for [https://lnvs.net/](https://lnvs.net/) [working] _(bot support for scrape data from some light novel site and add for website)_
+   * Bot for [https://lnvs.net/](https://lnvs.net/) [live] _(bot support for scrape data from some light novel site and add for website)_
    * Api get link for [https://linkxin.net/](https://linkxin.net/) [stopped]  _(The API takes fshare, 4share, google drive, mediafire, meg0a... links and returns high-speed links with shortened links)_
 
 **PHP/WORDPRESS**
