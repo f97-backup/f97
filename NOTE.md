@@ -1,10 +1,10 @@
-1. Delete all local git branches
+### 1. Delete all local git branches
 
 ```bash
 git branch --merged | grep -v \* | xargs git branch -D 
 ```
 
-2. Create swap for azure
+### 2. Create swap for azure
 
 Edit `/etc/waagent.conf`: 
 ```bash
