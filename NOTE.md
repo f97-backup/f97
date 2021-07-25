@@ -32,3 +32,17 @@ sudo DOKKU_TAG=v0.24.10 bash bootstrap.sh
 ssh-keygen -t rsa -b 4096 
 cat ~/.ssh/id_rsa.pub # And paste text to http://<IP>
 ```
+
+```
+dokku apps:create api
+domains:add api api.example.com
+dokku config:set --no-restart api KEY="MASTER_KEY"
+dokku letsencrypt:enable api
+```
+```
+git remote add dokku dokku@xx.xx.xxx.xxx:api
+git push dokku master
+```
+
+View more at: [cavhd.net](https://api.cavhd.net/)
+
