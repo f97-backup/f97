@@ -30,5 +30,5 @@ sudo DOKKU_TAG=v0.24.10 bash bootstrap.sh
 
 ```bash
 ssh-keygen -t rsa -b 4096 
-cat ~/.ssh/id_rsa.pub #and paste it to http://<IP>
+cat ~/.ssh/id_rsa.pub # And paste text to http://<IP>
 ```
