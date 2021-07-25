@@ -28,7 +28,7 @@ wget https://raw.githubusercontent.com/dokku/dokku/v0.24.10/bootstrap.sh;
 sudo DOKKU_TAG=v0.24.10 bash bootstrap.sh
 ```
 
-```
+```bash
 ssh-keygen -t rsa -b 4096 
 cat ~/.ssh/id_rsa.pub #and paste it to http://<IP>
 ```
