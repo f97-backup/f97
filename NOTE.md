@@ -20,3 +20,10 @@ After that paste command:
 umount /mnt
 service walinuxagent restart
 ```
+
+### 3. Play with dokku
+
+```bash
+wget https://raw.githubusercontent.com/dokku/dokku/v0.24.10/bootstrap.sh;
+sudo DOKKU_TAG=v0.24.10 bash bootstrap.sh
+```
