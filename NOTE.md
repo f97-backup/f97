@@ -33,13 +33,14 @@ ssh-keygen -t rsa -b 4096
 cat ~/.ssh/id_rsa.pub # And paste text to http://<IP>
 ```
 
-```
+```bash
 dokku apps:create api
 dokku domains:add api api.example.com
 dokku config:set --no-restart api KEY="MASTER_KEY"
 dokku letsencrypt:enable api
 ```
-```
-git remote add dokku dokku@xx.xx.xxx.xxx:api # Or git remote set-url dokku dokku@xx.xx.xxx.xxx:api
+
+```bash
+git remote add dokku dokku@xx.xx.xxx.xxx:api #or git remote set-url dokku dokku@xx.xx.xxx.xxx:api
 git push dokku master
 ```
