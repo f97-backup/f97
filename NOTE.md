@@ -40,6 +40,6 @@ dokku config:set --no-restart api KEY="MASTER_KEY"
 dokku letsencrypt:enable api
 ```
 ```
-git remote add dokku dokku@xx.xx.xxx.xxx:api
+git remote add dokku dokku@xx.xx.xxx.xxx:api # Or git remote set-url dokku dokku@xx.xx.xxx.xxx:api
 git push dokku master
 ```
