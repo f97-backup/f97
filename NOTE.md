@@ -43,6 +43,3 @@ dokku letsencrypt:enable api
 git remote add dokku dokku@xx.xx.xxx.xxx:api
 git push dokku master
 ```
-
-View more at: [cavhd.net](https://api.cavhd.net/)
-
