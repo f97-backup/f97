@@ -35,7 +35,7 @@ cat ~/.ssh/id_rsa.pub # And paste text to http://<IP>
 
 ```
 dokku apps:create api
-domains:add api api.example.com
+dokku domains:add api api.example.com
 dokku config:set --no-restart api KEY="MASTER_KEY"
 dokku letsencrypt:enable api
 ```
