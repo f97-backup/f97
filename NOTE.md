@@ -44,3 +44,14 @@ dokku letsencrypt:enable api
 git remote add dokku dokku@xx.xx.xxx.xxx:api #or git remote set-url dokku dokku@xx.xx.xxx.xxx:api
 git push dokku master
 ```
+
+### 4. Enable root login over SSH
+
+```bash
+nano /etc/ssh/sshd_config # vim /etc/ssh/sshd_config
+# add PermitRootLogin yes
+systemctl restart sshd
+# or
+service sshd restart
+
+```
