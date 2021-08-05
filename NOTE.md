@@ -55,3 +55,9 @@ systemctl restart sshd
 service sshd restart
 
 ```
+
+### 5. Change mirror ubuntu
+
+```bash
+sed -i "s/archive.ubuntu.com/mirrors.bkns.vn/g" /etc/apt/sources.list
+```
