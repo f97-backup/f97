@@ -61,3 +61,11 @@ service sshd restart
 ```bash
 sed -i "s/archive.ubuntu.com/mirrors.bkns.vn/g" /etc/apt/sources.list
 ```
+
+### 6. AA installer
+
+```bash
+yum install -y wget && wget -O install.sh http://www.aapanel.com/script/install_6.0_en.sh && bash install.sh aapanel
+wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sudo bash install.sh aapanel
+wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && bash install.sh aapanel
+```
