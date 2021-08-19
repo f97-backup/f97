@@ -70,3 +70,10 @@ yum install -y wget && wget -O install.sh http://www.aapanel.com/script/install_
 ```bash
 wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sudo bash install.sh aapanel
 ```
+
+### 7. Update nameserver dns
+
+```bash
+echo "nameserver 1.1.1.1" >>  /etc/resolv.conf
+echo "nameserver 1.0.0.1" >>  /etc/resolv.conf
+```
