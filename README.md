@@ -1,4 +1,4 @@
-## Hello My Fens 👋
+## Hello everyone 👋
 <!-- [![f97.xyz](https://img.shields.io/badge/Blog-f97.xyz-lightgrey "f97.xyz")](https://f97.xyz)
 [![huynhduckhoan](https://img.shields.io/badge/skype-huynhduckhoan-blue "huynhduckhoan")](https://join.skype.com/invite/niUom6aZDDwa "devcui.com")
 ![F97's github visitor](https://komarev.com/ghpvc/?username=f97) -->
@@ -8,21 +8,13 @@
 
 React developer & Open Source enthusiast.<br>
 Currently working in Da Nang, Vietnam.<br>
- 
-<div style=" display: flex; justify-content: space-between; ">
-         <div>
      
  To connect with me: 
  - Linkedin: [in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)
  - Skype: [live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)
  - CV: [CV](/CV.md)
           
-   </div>
-
- <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark&hide_border=true">
-  </div>
-</div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark&hide_border=true">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=f97&show_icons=true&theme=onedark&show_icons=true&hide_border=true"> -->
 
