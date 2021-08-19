@@ -79,3 +79,10 @@ wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sud
 echo "nameserver 1.1.1.1" >>  /etc/resolv.conf
 echo "nameserver 1.0.0.1" >>  /etc/resolv.conf
 ```
+
+### 8.
+
+```bash
+git config --system http.sslVerify false
+git config --system user.email "email@email.com"
+```
