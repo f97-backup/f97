@@ -8,7 +8,21 @@
 
 React developer & Open Source enthusiast.<br>
 Currently working in Da Nang, Vietnam.<br>
+ 
+<div style=" display: flex; justify-content: space-between; ">
+         <div>
+     
+ To connect with me: 
+ - Linkedin: [in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)
+ - Skype: [live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)
+ - CV: [CV](/CV.md)
+          
+   </div>
 
+ <div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark&hide_border=true">
+  </div>
+</div>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=f97&show_icons=true&theme=onedark&show_icons=true&hide_border=true"> -->
 
@@ -17,9 +31,5 @@ Currently working in Da Nang, Vietnam.<br>
 ![Imgur](https://i.imgur.com/7pehdsz.png)
  -->
  
-To connect with me: 
-- Linkedin: [in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)
-- Skype: [live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)
-- CV: [CV](/CV.md)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark&hide_border=true">
+
