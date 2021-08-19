@@ -65,9 +65,11 @@ sed -i "s/archive.ubuntu.com/mirrors.bkns.vn/g" /etc/apt/sources.list
 ### 6. AA installer
 
 ```bash
+yum update -y && yum autoremove -y && yum clean all && reboot
 yum install -y wget && wget -O install.sh http://www.aapanel.com/script/install_6.0_en.sh && bash install.sh aapanel
 ```
 ```bash
+apt update -y && apt upgrade -y && apt autoremove -y && apt clean all && reboot
 wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sudo bash install.sh aapanel
 ```
 
