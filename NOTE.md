@@ -86,3 +86,18 @@ echo "nameserver 1.0.0.1" >>  /etc/resolv.conf
 git config --system http.sslVerify false
 git config --system user.email "email@email.com"
 ```
+
+```
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+```
