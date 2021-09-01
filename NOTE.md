@@ -104,3 +104,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
 </IfModule>
 ```
+
+```bash
+/usr/local/lsws/admin/misc/lsup.sh -v 1.7.13
+```
