@@ -13,7 +13,7 @@ To connect with me:
 
 - Linkedin: [in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)
 - Skype: [live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)
-- CV: [CV](/CV.md)
+- CV: [github:f97/CV](/CV.md)
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark&hide_border=true">
 
